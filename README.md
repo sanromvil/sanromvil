@@ -33,7 +33,17 @@ Falo espanhol, inglês (C1) e português (básico).
 
 ## Habilidades
 
-PostgreSQL · Python · Machine learning · JavaScript · TypeScript · Swift y SwiftUI · HTML y CSS
+<p>
+  <img src="iconos/PostgreSQL-Dark.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL">
+  <img src="iconos/Python-Dark.svg" width="48" height="48" alt="Python" title="Python">
+  <img src="iconos/JavaScript.svg" width="48" height="48" alt="JavaScript" title="JavaScript">
+  <img src="iconos/TypeScript.svg" width="48" height="48" alt="TypeScript" title="TypeScript">
+  <img src="iconos/Swift.svg" width="48" height="48" alt="Swift" title="Swift">
+  <img src="iconos/HTML.svg" width="48" height="48" alt="HTML" title="HTML">
+  <img src="iconos/CSS.svg" width="48" height="48" alt="CSS" title="CSS">
+</p>
+
+Machine learning · SwiftUI
 
 ## Contacto
 
