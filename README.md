@@ -43,7 +43,7 @@ Falo espanhol, inglês (C1) e português (básico).
   <img src="iconos/CSS.svg" width="48" height="48" alt="CSS" title="CSS">
 </p>
 
-Machine learning · SwiftUI
+SQL · Modelado de datos · Machine learning · SwiftUI
 
 ## Contacto
 
