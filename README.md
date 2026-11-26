@@ -2,6 +2,11 @@
 
 Bases de datos y machine learning · Estudiante de IA y Ciencia de Datos
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="nube-dark.svg">
+  <img src="nube-light.svg" width="100%" alt="Animación en caracteres ASCII: una nube de puntos que gira y se organiza en tres grupos">
+</picture>
+
 ## Sobre mí
 
 Me enfoco en bases de datos y machine learning, y me interesa la ingeniería de IA. Por mi cuenta investigo cómo hacer más eficientes el almacenamiento y la transmisión de datos.
